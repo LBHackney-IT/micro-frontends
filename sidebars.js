@@ -14,7 +14,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Micro-frontends",
+      label: "Specifications",
       items: [
         "how_to_guides",
         "boilerplate",
