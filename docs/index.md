@@ -5,8 +5,21 @@ slug: /
 ---
 
 
-## Context
-Hackney uses GitHub as a place to version-control and store source code. Various teams apply and follow different branching strategies - a way of managing branches within repositories and have different approaches towards deployment based on those branches.
+The purpose of the Micro Frondend Playbook is to support Hackney Council establish a set of repeatable guidelines for teams to follow, implement and contribute towards.
+
+Collectively, we touch on many of the processes and operations that support our tenants, leaseholders, house officers and contractors (to name a few of our users), and it is in all of our interest to ensure a consistent experience across the platform.
+
+Setting the frontend standards across Hackney Council is an aspirational goal all teams building interfaces can aspire to. We can leverage the work of our fellow collegues, consultants and contractors without having to rebuilding similar features across programmes and streams.
+
+To address some of the earlier known challenges within Hackney Council in the FE space, we are advocating the use of Micro Frondends for building modern web interfaces.
+
+Finally, in the spirit of enabling our end users and to share a common experience when engaging with the Hackney Council platform, we encourage everyone to participate, learn and share on this playbook.
+
+
+## Why Micro FrondEnds?
+
+tbc
+
 
 As of July 2021, there are no HackIT standards for “Pull Requests” (PR) processes and branch protection rules. The aim of this document is to provide guidance on PR processes and the benefits of implementing those.
 
@@ -89,4 +102,4 @@ Every pull request should be small in size (unless there is a use case for a big
 - Ensure at least one member of the team actively maintaining the repository has approved your PR before merging your code.
 
 ## Help us improve
-We are always looking at ways we can improve. If you have any ideas or suggestions please share your feedback on our ways of working [GitHub Repo](https://github.com/LBHackney-IT/ways-of-working).
+We are always looking at ways we can improve. If you have any ideas or suggestions please share your feedback on our Specifications [GitHub Repo](https://github.com/LBHackney-IT/micro-frontends).
