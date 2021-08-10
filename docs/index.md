@@ -1,10 +1,9 @@
 ---
 id: index
-title: Introduction
+title: HackIT’s Development PR process
 slug: /
 ---
 
-## Purpose
 
 The purpose of the Micro Frondend Playbook is to support Hackney Council establish a set of repeatable guidelines for teams to follow, implement and contribute towards.
 
@@ -17,5 +16,6 @@ To address some of the earlier known challenges within Hackney Council in the FE
 Finally, in the spirit of enabling our end users and to share a common experience when engaging with the Hackney Council platform, we encourage everyone to participate, learn and share on this playbook.
 
 
+
 ## Help us improve
-We are always looking at ways we can improve. If you have any ideas or suggestions please share your feedback on our Specifications [GitHub Repo](https://github.com/LBHackney-IT/micro-frontends).
+We are always looking at ways we can improve. If you have any ideas or suggestions please share your feedback on our Micro-Frontends [GitHub Repo](https://github.com/LBHackney-IT/micro-frontends).
