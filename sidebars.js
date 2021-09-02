@@ -3,7 +3,12 @@ module.exports = {
     {
       type: "category",
       label: "Home",
-      items: ["index"],
+      items:[ "index",
+      {
+        '': ['architecture']
+      },
+
+    ],
     },
     {
       type: "category",
@@ -30,4 +35,4 @@ module.exports = {
       items: ["contact_us"],
     },
   ],
-};
+}
