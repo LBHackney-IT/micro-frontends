@@ -25,6 +25,12 @@ module.exports = {
           label: "GitHub",
           position: "right",
         },
+        {
+          to: "contact",
+          label: "Contact Us",
+          position: "right",
+          url: "https://github.com/LBHackney-IT/micro-frontends/contact",
+        },
       ],
     },
     algolia: {
