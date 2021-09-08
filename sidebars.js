@@ -29,10 +29,5 @@ module.exports = {
         "aws_services",
       ],
     },
-    {
-      type: "category",
-      label: "Contact Us",
-      items: ["contact_us"],
-    },
   ],
 }

@@ -114,9 +114,10 @@ html[data-theme="dark"] .navbar__logo {
     background-color: #f8f8f8;
     border-radius: 50%;
     margin-bottom: 30px;
+    color: #00664D;
   }
   .header-circle :hover {
-    color:  #00664D;
+    color:  black;
     cursor: pointer;
   }
   .description-container {
@@ -125,6 +126,7 @@ html[data-theme="dark"] .navbar__logo {
     border: 4px solid #00664E;
     background-color: #f8f8f8;
     text-align:left;
+    color: #00664D;
     .enquiries-list {
       padding: 10px 20px 10px 30px;
       li {
@@ -134,7 +136,7 @@ html[data-theme="dark"] .navbar__logo {
   }
   .description-container :hover {
     cursor: pointer;
-    color: #00664D;
+    color: black;
   }
 }
 
