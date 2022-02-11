@@ -24,7 +24,16 @@ Add the following to `/etc/hosts` (to enable authentication to work in developme
 127.0.0.1   local.hackney.gov.uk
 ```
 
-Run the following commands in a new folder on your local development machine
+You will also need to create a GitHub access token to use in the process, which gives the CLI access to any
+private repositories.
+
+1. Go to http://github.com/settings/tokens
+2. Generate a new token
+3. Name it whatever you like, and set an expiry
+4. Select all the `repo` scopes
+5. Save the token some where secure and temporary so you can use it in the next steps
+
+Next run the following commands in a new folder on your local development machine.
 
 ```
 npm i -g @hackney/mtfh-cli
